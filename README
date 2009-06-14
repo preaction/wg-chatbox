@@ -1,0 +1,9 @@
+To Install:
+
+1) Merge all files into your WebGUI directory.
+2) Run the following commands:
+   cd /data/WebGUI/sbin
+   perl installClass.pl --configFile=<yourconfig> WebGUI::Asset::Wobject::Chatbox
+3) Restart WebGUI
+4) Install the templates located in docs/chatbox_templates
+
